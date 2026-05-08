@@ -1,0 +1,19 @@
+{
+  "model": "MobileNetV2",
+  "image_size": 128,
+  "classes": [
+    "Cell",
+    "Cell-Multi",
+    "Cracking",
+    "Diode",
+    "Diode-Multi",
+    "Hot-Spot",
+    "Hot-Spot-Multi",
+    "No-Anomaly",
+    "Offline-Module",
+    "Shadowing",
+    "Soiling",
+    "Vegetation"
+  ],
+  "test_accuracy": 0.625
+}
